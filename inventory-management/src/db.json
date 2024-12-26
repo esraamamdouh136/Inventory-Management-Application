@@ -1,0 +1,19 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "stockQuantity": 15,
+        "lastUpdated": "2023-09-01T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "name": "Mouse",
+        "category": "Electronics",
+        "stockQuantity": 2,
+        "lastUpdated": "2023-09-05T14:30:00Z"
+      }
+    ]
+  }
+  
